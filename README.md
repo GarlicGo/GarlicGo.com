@@ -1,6 +1,6 @@
 <!-- # GarlicGo.com -->
 
-<p align="left"><b>A student interested in Frontend &amp; have some experience.</b></p>
+<p align="left"><b>So surprised to see you here ✨ , I'm a student interested in Frontend &amp; have some experience.</b></p>
 <p align="center">
 </p>
 
