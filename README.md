@@ -1,8 +1,7 @@
-# GarlicGo
+<!-- # GarlicGo.com -->
 
 欢迎来到这里。
 
-# 
 
 <!-- Footer -->
 <div align="center">
