@@ -1,6 +1,6 @@
 <!-- # GarlicGo.com -->
 
-<p align="left"><b>So surprised to see you here ✨ , I'm a student interested in Frontend &amp; have some experience.</b></p>
+<p align="left"><b>So surprised to see you here ✨ , I'm a student interested in Frontend &amp; have some experience :</b></p>
 
 - Studied CS in UPC for 4 years and now studying EE in NWPU.
 - Made great efforts for  [[WanYi-TCM]](https://github.com/WanYi-TCM) together with my friends, gained great awards & technical growth.
