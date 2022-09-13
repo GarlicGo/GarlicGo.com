@@ -1,5 +1,7 @@
 <!-- # GarlicGo.com -->
 
+> Some GitHub services are used, which may cause slow loading in Chinese mainland.
+
 <p align="left"><b>So surprised to see you here ✨ , I'm a student interested in FrontEnd &amp; have some experience :</b></p>
 
 - Studied CS in UPC for 4 years and now studying EE in NWPU.
