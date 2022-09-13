@@ -17,7 +17,8 @@
     <h3>My GitHub Stats</h3>
 </div> 
 <div style="display: flex; justify-content: space-around;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=garlicgo&hide_border=true">
+<img src="./images/top-langs/top-langs-22-09-13.svg">
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=garlicgo&hide_border=true"> -->
   <img height="280" src="https://pic2.zhimg.com/v2-28020003d4a493c78d8202ba6c35f179_b.webp">
 </div>
 <p>&nbsp;</p>
