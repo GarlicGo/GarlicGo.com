@@ -4,7 +4,7 @@
 
 <p align="left"><b>So surprised to see you here ✨ , I'm a student interested in FrontEnd &amp; have some experience :</b></p>
 
-- Studied CS in UPC for 4 years and now studying EE in NWPU.
+- Studied CS in UPC for 4 years and now studying EE in NPU.
 - Put a lot of work into  [[WanYi-TCM]](https://github.com/WanYi-TCM) together with my friends, gained great awards & technical growth.
 - Doing content production in [[Abysser]](https://github.com/Abyssers) now with some friends.
 - Once worked as an FE intern in ByteDance.

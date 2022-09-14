@@ -82,7 +82,7 @@
     <svg data-testid="lang-items" x="25">
       <g transform="translate(0, 0)">
     <text data-testid="lang-name" x="2" y="15" class="lang-name">HTML</text>
-    <text x="215" y="34" class="lang-name">56.81%</text>
+    <text x="215" y="34" class="lang-name">54.81%</text>
     
     <svg width="205" x="0" y="25">
       <rect rx="5" ry="5" x="0" y="0" width="205" height="8" fill="#ddd"></rect>
@@ -91,7 +91,7 @@
           fill="#e34c26"
           rx="5" ry="5" x="0" y="0" 
           data-testid="lang-progress"
-          width="56.81%"
+          width="54.81%"
       >
       </rect>
     </svg>
@@ -130,7 +130,7 @@
   
   </g><g transform="translate(0, 120)">
     <text data-testid="lang-name" x="2" y="15" class="lang-name">TypeScript</text>
-    <text x="215" y="34" class="lang-name">0.56%</text>
+    <text x="215" y="34" class="lang-name">2.56%</text>
     
     <svg width="205" x="0" y="25">
       <rect rx="5" ry="5" x="0" y="0" width="205" height="8" fill="#ddd"></rect>
@@ -139,7 +139,7 @@
           fill="#3D6117"
           rx="5" ry="5" x="0" y="0" 
           data-testid="lang-progress"
-          width="2%"
+          width="12.56%"
       >
       </rect>
     </svg>
