@@ -17,10 +17,11 @@
 - Jit - A lightweight nodejs-client of Git. [ [GitHub](https://github.com/Abyssers/jit) ] [ [npm](https://www.npmjs.com/package/@abysser/jit) ]
 - Abyssers' Blog - Hexo based blog that includes document lifecycle management. [ [GitHub](https://github.com/Abyssers/blog) ] [ [Site](https://abyssers.github.io/blog/) ]
 
-<div style="display: flex; flex-direction: row; align-items: center">
+<!-- <div style="display: flex; flex-direction: row; align-items: center">
     <img src="./images/octocat.png" height="20" width="20" />&nbsp;&nbsp;
     <h3>My GitHub Stats</h3>
-</div> 
+</div>  -->
+<h3>My GitHub Stats</h3>
 <div style="display: flex; justify-content: space-around;">
 <img src="./images/top-langs/top-langs-22-09-13.svg">
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=garlicgo&hide_border=true"> -->
