@@ -12,6 +12,11 @@
 <p align="center">
 </p>
 
+<h3>Interesting Things I'm Doing Now</h3>
+
+- Jit - A lightweight nodejs-client of Git. [ [GitHub](https://github.com/Abyssers/jit) ] [ [npm](https://www.npmjs.com/package/@abysser/jit) ]
+- Abyssers' Blog - Hexo based blog that includes document lifecycle management. [ [GitHub](https://github.com/Abyssers/blog) ] [ [Site](https://abyssers.github.io/blog/) ]
+
 <div style="display: flex; flex-direction: row; align-items: center">
     <img src="./images/octocat.png" height="20" width="20" />&nbsp;&nbsp;
     <h3>My GitHub Stats</h3>
