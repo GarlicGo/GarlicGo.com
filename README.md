@@ -16,7 +16,7 @@
 
 - Abyssers' Blog - Hexo based blog that includes document lifecycle management. [ [GitHub](https://github.com/Abyssers/blog) ] [ [Site](https://abyssers.github.io/blog/) ]
 - Spatula - A handy utensil for javascript cooking. [ [GitHub](https://github.com/Abyssers/spatula) ] [ [npm](https://www.npmjs.com/package/@abysser/spatula) ]
-- Proofread new react documentation website of Chinese translation. [ [GitHub](https://github.com/reactjs/zh-hans.reactjs.org) ] [ [New Chinese Website](https://beta.react.jscn.org/) ]
+- Proofread new react documentation website of Chinese translation. [ [GitHub](https://github.com/reactjs/zh-hans.reactjs.org) ] [ [ New React Chinese Website (Beta) ](https://beta.react.jscn.org/) ]
 
 <!-- <div style="display: flex; flex-direction: row; align-items: center">
     <img src="./images/octocat.png" height="20" width="20" />&nbsp;&nbsp;
